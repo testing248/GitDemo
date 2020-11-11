@@ -22,16 +22,21 @@
     ///uhguhjgbhjb
     ////kjbuhjgb
     //yguyjvy
-    [self check];
+    [self checkws];
     
     
     // Do any additional setup after loading the view.
 }
--(void) check
+
+
+-(void) checkws
 {
     
 }
-
+-(void) checkws1
+{
+    
+}
 /*
 #pragma mark - Navigation
 

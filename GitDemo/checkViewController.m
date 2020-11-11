@@ -29,7 +29,14 @@
     
     // Do any additional setup after loading the view.
 }
-
+-(void) checkmaster
+{
+    
+}
+-(void) checkmaster1
+{
+    
+}
 
 -(void) checkws
 {

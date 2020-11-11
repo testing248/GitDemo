@@ -23,6 +23,8 @@
     ////kjbuhjgb
     //yguyjvy
     [self checkws];
+    [self checkws1];
+    [self checkws2];
     
     
     // Do any additional setup after loading the view.
@@ -34,6 +36,10 @@
     
 }
 -(void) checkws1
+{
+    
+}
+-(void) checkws2
 {
     
 }

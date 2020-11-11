@@ -13,6 +13,7 @@
 		85D6D269255BCB1A00FC66B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85D6D268255BCB1A00FC66B6 /* Assets.xcassets */; };
 		85D6D26C255BCB1A00FC66B6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85D6D26A255BCB1A00FC66B6 /* LaunchScreen.storyboard */; };
 		85D6D26F255BCB1A00FC66B6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 85D6D26E255BCB1A00FC66B6 /* main.m */; };
+		85D6D277255BD17D00FC66B6 /* checkViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 85D6D276255BD17D00FC66B6 /* checkViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		85D6D26B255BCB1A00FC66B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		85D6D26D255BCB1A00FC66B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		85D6D26E255BCB1A00FC66B6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		85D6D275255BD17D00FC66B6 /* checkViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = checkViewController.h; sourceTree = "<group>"; };
+		85D6D276255BD17D00FC66B6 /* checkViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = checkViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				85D6D26A255BCB1A00FC66B6 /* LaunchScreen.storyboard */,
 				85D6D26D255BCB1A00FC66B6 /* Info.plist */,
 				85D6D26E255BCB1A00FC66B6 /* main.m */,
+				85D6D275255BD17D00FC66B6 /* checkViewController.h */,
+				85D6D276255BD17D00FC66B6 /* checkViewController.m */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -142,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				85D6D264255BCB1700FC66B6 /* ViewController.m in Sources */,
+				85D6D277255BD17D00FC66B6 /* checkViewController.m in Sources */,
 				85D6D26F255BCB1A00FC66B6 /* main.m in Sources */,
 				85D6D261255BCB1700FC66B6 /* AppDelegate.m in Sources */,
 			);

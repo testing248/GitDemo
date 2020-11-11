@@ -19,7 +19,17 @@
     
     
     ///for second commit
+    ///uhguhjgbhjb
+    ////kjbuhjgb
+    //yguyjvy
+    [self check];
+    
+    
     // Do any additional setup after loading the view.
+}
+-(void) check
+{
+    
 }
 
 /*
